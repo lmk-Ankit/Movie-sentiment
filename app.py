@@ -120,8 +120,8 @@ def load_artifacts():
     with open("tokenizer.pkl", "rb") as f:
         tokenizer = pickle.load(f)
 
-    import keras
-    model = keras.models.load_model("sentiment_rnn.keras")
+    import tensorflow as tf
+    model = tf.keras.models.load_model("sentiment_rnn.keras")
 
     return model, tokenizer
 
