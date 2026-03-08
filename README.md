@@ -6,7 +6,7 @@ A deep learning-powered web app that analyzes movie reviews and predicts their s
 
 ## 🚀 Live Demo
 
-Try it out on Streamlit: **[your-app-link.streamlit.app](#)**
+Try it out on Streamlit: **[movie-sentiment](https://movie-sentiment-j6w8yapsna2avgvz8xhapu.streamlit.app/)(#)**
 
 ---
 
